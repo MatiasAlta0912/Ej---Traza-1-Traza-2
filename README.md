@@ -1,3 +1,3 @@
-TP Desarrollo de Software
+TP Traza 1 + Traza 2
 Integrantes:
 - Matías Altamirano
